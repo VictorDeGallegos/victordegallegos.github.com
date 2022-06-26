@@ -114,6 +114,10 @@ a:visited {
   color: #d6a13a;
 }
 
+a {
+  color: #d6a13a;
+}
+
 .resume .resume_left .resume_skills ul li {
   display: flex;
   margin-bottom: 10px;
